@@ -1,0 +1,12 @@
+@keyframes flotar {
+    0% {
+        transform: translateY(60px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.flotar {
+    animation: flotar 2s ease-in-out infinite;
+}
