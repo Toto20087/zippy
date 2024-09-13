@@ -1,5 +1,5 @@
 import Image from "next/image"
-import ButtonP from "./button"
+import ButtonP from "./button_propio"
 import {Button} from "./ui/button"
 
 const Header = () => {
