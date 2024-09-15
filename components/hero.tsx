@@ -8,7 +8,7 @@ import { IoMdMail } from "react-icons/io";
 const Hero = () => {
   return (
     <>
-        <div className='h-full w-full flex items-center justify-center bg-[#0099FF] bg-[url("/deskback.svg")] bg-cover bg-no-repeat '>
+        <div className='h-[100%] w-full flex items-center justify-center bg-[#0099FF] bg-[url("/deskback.svg")] bg-cover bg-no-repeat '>
             <div className='flex items-center justify-center flex-col space-y-6'>
                 <h1 className="text-8xl w-1/2 text-white">
                     Hacemos que enseñar Tecnología sea simple
